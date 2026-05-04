@@ -4,7 +4,7 @@ import './index.css'
 // import App from './App.jsx'
 import { BrowserRouter, Routes, Route } from 'react-router'
 import HomePage from './pages/HomePage'
-import AboutPage from './pages/Aboutpage'
+import AboutPage from './pages/AboutPage'
 import ContactPage from './pages/ContactPage'
 import NavBar from './components/NavBar'
 
